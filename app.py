@@ -10,7 +10,7 @@ def hola_mundo():
 
 #Ruta /alumnos
 @app.route('/alumnos')
-def hola_mundo():
+def getAlumnos():
     return 'Aqui van los alumnos'
 
 if __name__ == '__main__':
