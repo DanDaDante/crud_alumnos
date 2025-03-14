@@ -5,3 +5,4 @@ lib64/
 include/
 pyvenv.cfg
 lib64
+.env
